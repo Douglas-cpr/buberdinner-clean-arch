@@ -1,0 +1,12 @@
+/Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Contracts/bin/Debug/net6.0/BuberDinner.Contracts.deps.json
+/Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Contracts/bin/Debug/net6.0/BuberDinner.Contracts.dll
+/Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Contracts/bin/Debug/net6.0/BuberDinner.Contracts.pdb
+/Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Contracts/obj/Debug/net6.0/BuberDinner.Contracts.csproj.AssemblyReference.cache
+/Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Contracts/obj/Debug/net6.0/BuberDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Contracts/obj/Debug/net6.0/BuberDinner.Contracts.AssemblyInfoInputs.cache
+/Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Contracts/obj/Debug/net6.0/BuberDinner.Contracts.AssemblyInfo.cs
+/Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Contracts/obj/Debug/net6.0/BuberDinner.Contracts.csproj.CoreCompileInputs.cache
+/Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Contracts/obj/Debug/net6.0/BuberDinner.Contracts.dll
+/Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Contracts/obj/Debug/net6.0/refint/BuberDinner.Contracts.dll
+/Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Contracts/obj/Debug/net6.0/BuberDinner.Contracts.pdb
+/Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Contracts/obj/Debug/net6.0/ref/BuberDinner.Contracts.dll

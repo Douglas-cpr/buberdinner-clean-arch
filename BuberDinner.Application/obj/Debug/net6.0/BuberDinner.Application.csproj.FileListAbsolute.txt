@@ -1,0 +1,12 @@
+/Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Application/bin/Debug/net6.0/BuberDinner.Application.deps.json
+/Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Application/bin/Debug/net6.0/BuberDinner.Application.dll
+/Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Application/bin/Debug/net6.0/BuberDinner.Application.pdb
+/Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Application/obj/Debug/net6.0/BuberDinner.Application.csproj.AssemblyReference.cache
+/Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Application/obj/Debug/net6.0/BuberDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Application/obj/Debug/net6.0/BuberDinner.Application.AssemblyInfoInputs.cache
+/Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Application/obj/Debug/net6.0/BuberDinner.Application.AssemblyInfo.cs
+/Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Application/obj/Debug/net6.0/BuberDinner.Application.csproj.CoreCompileInputs.cache
+/Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Application/obj/Debug/net6.0/BuberDinner.Application.dll
+/Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Application/obj/Debug/net6.0/refint/BuberDinner.Application.dll
+/Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Application/obj/Debug/net6.0/BuberDinner.Application.pdb
+/Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Application/obj/Debug/net6.0/ref/BuberDinner.Application.dll
