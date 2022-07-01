@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "LFJuUaBkV30mn5yiArwBv9B5ybl9RqZ4L137R9yASBYIRQj3exWtm7+aL646PV4ApdKMAYjTpzmhICVUzPTP/A==",
+  "dgSpecHash": "YB2U++XawODPhz48iQtwIdyte3/denTKG/orYYtzAoeUnoLWopc3DiLWJ/D03Z/uAtirUlmSXScUAmsRIxZVDg==",
   "success": true,
   "projectFilePath": "/Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Infraestructure/BuberDinner.Infraestructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/douglasvinicius/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
