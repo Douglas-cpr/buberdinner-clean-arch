@@ -28,3 +28,8 @@
 /Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/BuberDinner.Application.pdb
 /Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/BuberDinner.Infraestructure.pdb
 /Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/BuberDinner.Domain.pdb
+/Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/Microsoft.Extensions.Configuration.dll
