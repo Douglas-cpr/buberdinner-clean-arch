@@ -1,3 +1,4 @@
+using BuberDinner.Application.Common.Errors;
 using Microsoft.AspNetCore.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 
@@ -9,6 +10,7 @@ public class ErrorsController : ControllerBase
   public IActionResult Error()
   {
     Exception? exception = HttpContext.Features.Get<IExceptionHandlerFeature>()?.Error;
+
     return Problem();
   }
 }

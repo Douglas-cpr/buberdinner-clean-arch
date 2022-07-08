@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Pva5sexIiVyzUYqu5G04YC3BEfRep77J1n4n0CFF0GUslhoFLYySIbb54+5iXAXaX4nf7wu3qEpeDTARug3hhw==",
+  "dgSpecHash": "yooOhq8Sr+7YmcLr2WNaerzrkUSRv0RuUB4uXDRCd2nXQLevwNeq0QTDIA9uHA79kr8TUlLZAJFvTpy2hzfREQ==",
   "success": true,
   "projectFilePath": "/Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Api/BuberDinner.Api.csproj",
   "expectedPackageFiles": [
@@ -17,6 +17,7 @@
     "/Users/douglasvinicius/.nuget/packages/microsoft.netcore.platforms/1.0.1/microsoft.netcore.platforms.1.0.1.nupkg.sha512",
     "/Users/douglasvinicius/.nuget/packages/microsoft.netcore.targets/1.0.1/microsoft.netcore.targets.1.0.1.nupkg.sha512",
     "/Users/douglasvinicius/.nuget/packages/newtonsoft.json/9.0.1/newtonsoft.json.9.0.1.nupkg.sha512",
+    "/Users/douglasvinicius/.nuget/packages/oneof/3.0.223/oneof.3.0.223.nupkg.sha512",
     "/Users/douglasvinicius/.nuget/packages/runtime.native.system/4.0.0/runtime.native.system.4.0.0.nupkg.sha512",
     "/Users/douglasvinicius/.nuget/packages/runtime.native.system.net.http/4.0.1/runtime.native.system.net.http.4.0.1.nupkg.sha512",
     "/Users/douglasvinicius/.nuget/packages/runtime.native.system.security.cryptography/4.0.0/runtime.native.system.security.cryptography.4.0.0.nupkg.sha512",

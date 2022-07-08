@@ -49,6 +49,10 @@
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
               "version": "[5.0.0, )"
+            },
+            "oneof": {
+              "target": "Package",
+              "version": "[3.0.223, )"
             }
           },
           "imports": [
