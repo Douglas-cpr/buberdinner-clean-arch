@@ -6,7 +6,7 @@ public static partial class Erros
 {
   public static class Authentication
   {
-    public static Error InvalidCredentials => Error.Conflict(
+    public static Error InvalidCredentials => Error.Validation(
       code: "User.InvalidCred",
       description: "Invalid credentials."
     );
