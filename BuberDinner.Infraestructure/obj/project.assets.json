@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "ErrorOr/0.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/ErrorOr.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/ErrorOr.dll": {}
+        }
+      },
       "Microsoft.CSharp/4.0.1": {
         "type": "package",
         "dependencies": {
@@ -222,15 +231,6 @@
         },
         "runtime": {
           "lib/netstandard1.0/Newtonsoft.Json.dll": {}
-        }
-      },
-      "OneOf/3.0.223": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.0/OneOf.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/OneOf.dll": {}
         }
       },
       "runtime.native.System/4.0.0": {
@@ -1202,9 +1202,9 @@
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "BuberDinner.Domain": "1.0.0",
+          "ErrorOr": "0.1.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
-          "System.IdentityModel.Tokens.Jwt": "5.0.0",
-          "oneof": "3.0.223"
+          "System.IdentityModel.Tokens.Jwt": "5.0.0"
         },
         "compile": {
           "bin/placeholder/BuberDinner.Application.dll": {}
@@ -1216,6 +1216,9 @@
       "BuberDinner.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ErrorOr": "0.1.0"
+        },
         "compile": {
           "bin/placeholder/BuberDinner.Domain.dll": {}
         },
@@ -1226,6 +1229,20 @@
     }
   },
   "libraries": {
+    "ErrorOr/0.1.0": {
+      "sha512": "adIVrA1Ixck5oZ79ZKB5f7k+aVlg4AB47nNHY14+qI8d+4//sTe0Dvbp8AIJEz/94OimmWjdGfei67q9UZPGig==",
+      "type": "package",
+      "path": "erroror/0.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "erroror.0.1.0.nupkg.sha512",
+        "erroror.nuspec",
+        "icon-square.png",
+        "lib/net6.0/ErrorOr.dll",
+        "lib/net6.0/ErrorOr.xml"
+      ]
+    },
     "Microsoft.CSharp/4.0.1": {
       "sha512": "17h8b5mXa87XYKrrVqdgZ38JefSUqLChUQpXgSnpzsM0nDOhE40FTeNWOJ/YmySGV6tG6T8+hjz6vxbknHJr6A==",
       "type": "package",
@@ -1497,21 +1514,6 @@
         "newtonsoft.json.9.0.1.nupkg.sha512",
         "newtonsoft.json.nuspec",
         "tools/install.ps1"
-      ]
-    },
-    "OneOf/3.0.223": {
-      "sha512": "YWabiHBFfDdKIO7/TEa72mARVVo5u5FqFnfXuTqjIupMvJlhoH8d0m4uKtczaINuT0vGR1qlXJayeU6bTw5myg==",
-      "type": "package",
-      "path": "oneof/3.0.223",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/net35/OneOf.dll",
-        "lib/net45/OneOf.dll",
-        "lib/netstandard1.3/OneOf.dll",
-        "lib/netstandard2.0/OneOf.dll",
-        "oneof.3.0.223.nupkg.sha512",
-        "oneof.nuspec"
       ]
     },
     "runtime.native.System/4.0.0": {

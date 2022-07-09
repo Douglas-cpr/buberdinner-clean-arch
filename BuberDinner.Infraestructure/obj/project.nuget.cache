@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Ku9o1AXbnpB1vpYI+JsvIxBJJ3Vo2SgA3UyU7IXxWaRUowvolwBczxcV5hFP4lfD0u1/VlBwiYqpvX6kxBTBEg==",
+  "dgSpecHash": "hJXSpGfHaNDJnqUaZGgJqjnw8O8vOzPmG+55UmGBScnSX6Mnkdi9vyAUrAX3V788uPsrjNxXJryXSArNvPUC4Q==",
   "success": true,
   "projectFilePath": "/Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Infraestructure/BuberDinner.Infraestructure.csproj",
   "expectedPackageFiles": [
+    "/Users/douglasvinicius/.nuget/packages/erroror/0.1.0/erroror.0.1.0.nupkg.sha512",
     "/Users/douglasvinicius/.nuget/packages/microsoft.csharp/4.0.1/microsoft.csharp.4.0.1.nupkg.sha512",
     "/Users/douglasvinicius/.nuget/packages/microsoft.extensions.configuration/6.0.1/microsoft.extensions.configuration.6.0.1.nupkg.sha512",
     "/Users/douglasvinicius/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
@@ -17,7 +18,6 @@
     "/Users/douglasvinicius/.nuget/packages/microsoft.netcore.platforms/1.0.1/microsoft.netcore.platforms.1.0.1.nupkg.sha512",
     "/Users/douglasvinicius/.nuget/packages/microsoft.netcore.targets/1.0.1/microsoft.netcore.targets.1.0.1.nupkg.sha512",
     "/Users/douglasvinicius/.nuget/packages/newtonsoft.json/9.0.1/newtonsoft.json.9.0.1.nupkg.sha512",
-    "/Users/douglasvinicius/.nuget/packages/oneof/3.0.223/oneof.3.0.223.nupkg.sha512",
     "/Users/douglasvinicius/.nuget/packages/runtime.native.system/4.0.0/runtime.native.system.4.0.0.nupkg.sha512",
     "/Users/douglasvinicius/.nuget/packages/runtime.native.system.net.http/4.0.1/runtime.native.system.net.http.4.0.1.nupkg.sha512",
     "/Users/douglasvinicius/.nuget/packages/runtime.native.system.security.cryptography/4.0.0/runtime.native.system.security.cryptography.4.0.0.nupkg.sha512",

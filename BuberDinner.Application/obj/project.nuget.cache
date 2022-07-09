@@ -1,13 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "FEeHuHdGSkd0wpKzYd8JFEd0af3+6lPN/LdSLMMwaqa5xtgs68zHvRuAtnk3d7gXhNvDEbm60EgK9FKmtJHMkw==",
+  "dgSpecHash": "dcnWOpScnBjkytijtx04slceLl/GF4PT8KDGjIELztWUdwlIGFE+952vPtu+7/4d1dEHKrh8hY9Ar2mWNmQ77A==",
   "success": true,
   "projectFilePath": "/Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Application/BuberDinner.Application.csproj",
   "expectedPackageFiles": [
-    "/Users/douglasvinicius/.nuget/packages/fluentresults/3.8.0/fluentresults.3.8.0.nupkg.sha512",
+    "/Users/douglasvinicius/.nuget/packages/erroror/0.1.0/erroror.0.1.0.nupkg.sha512",
     "/Users/douglasvinicius/.nuget/packages/microsoft.csharp/4.0.1/microsoft.csharp.4.0.1.nupkg.sha512",
     "/Users/douglasvinicius/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
-    "/Users/douglasvinicius/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.1/microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
     "/Users/douglasvinicius/.nuget/packages/microsoft.identitymodel.logging/1.0.0/microsoft.identitymodel.logging.1.0.0.nupkg.sha512",
     "/Users/douglasvinicius/.nuget/packages/microsoft.identitymodel.tokens/5.0.0/microsoft.identitymodel.tokens.5.0.0.nupkg.sha512",
     "/Users/douglasvinicius/.nuget/packages/microsoft.netcore.platforms/1.0.1/microsoft.netcore.platforms.1.0.1.nupkg.sha512",
