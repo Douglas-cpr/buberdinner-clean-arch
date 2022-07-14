@@ -34,3 +34,6 @@
 /Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
 /Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/Microsoft.Extensions.Configuration.dll
 /Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/ErrorOr.dll
+/Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/MediatR.dll
+/Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/MediatR.Contracts.dll
+/Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/MediatR.Extensions.Microsoft.DependencyInjection.dll

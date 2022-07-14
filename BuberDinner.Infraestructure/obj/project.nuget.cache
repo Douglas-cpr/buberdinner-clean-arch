@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "hJXSpGfHaNDJnqUaZGgJqjnw8O8vOzPmG+55UmGBScnSX6Mnkdi9vyAUrAX3V788uPsrjNxXJryXSArNvPUC4Q==",
+  "dgSpecHash": "uzcffGYo4zl93PfCsqUpYvy5I8hfbdRNFPpauLcW9H1NGua8W9fbJyKmxr/RETyV5d9AGSX+CH7cVtIrKq0mOQ==",
   "success": true,
   "projectFilePath": "/Users/douglasvinicius/Documentos/cursos/clean-net-api/BuberDinner/BuberDinner.Infraestructure/BuberDinner.Infraestructure.csproj",
   "expectedPackageFiles": [
     "/Users/douglasvinicius/.nuget/packages/erroror/0.1.0/erroror.0.1.0.nupkg.sha512",
+    "/Users/douglasvinicius/.nuget/packages/mediatr/10.0.1/mediatr.10.0.1.nupkg.sha512",
+    "/Users/douglasvinicius/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/douglasvinicius/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/10.0.1/mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
     "/Users/douglasvinicius/.nuget/packages/microsoft.csharp/4.0.1/microsoft.csharp.4.0.1.nupkg.sha512",
     "/Users/douglasvinicius/.nuget/packages/microsoft.extensions.configuration/6.0.1/microsoft.extensions.configuration.6.0.1.nupkg.sha512",
     "/Users/douglasvinicius/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
